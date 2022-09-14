@@ -1,0 +1,5 @@
+,train_acc,Test_acc
+Logistic_diabetic,0.7636363636363637,0.74
+KNN_diabetic,0.8426666666666667,0.78
+DT_diabetic,0.8026666666666666,0.804
+RF_diabetic,0.8093333333333333,0.76
